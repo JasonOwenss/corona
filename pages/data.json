@@ -1,1402 +1,1402 @@
 [
     {
-        "days": "0",
-        "uninfected": "4599881",
-        "infected": "114",
-        "Recovered": "0",
-        "Deaths": "0"
+        "days": 0,
+        "uninfected": 4599881,
+        "infected": 114,
+        "Recovered": 0,
+        "Deaths": 0
     },
     {
-        "days": "2",
-        "uninfected": "4599849",
-        "infected": "146",
-        "Recovered": "0",
-        "Deaths": "0"
+        "days": 2,
+        "uninfected": 4599849,
+        "infected": 146,
+        "Recovered": 0,
+        "Deaths": 0
     },
     {
-        "days": "4",
-        "uninfected": "4599783",
-        "infected": "212",
-        "Recovered": "0",
-        "Deaths": "0"
+        "days": 4,
+        "uninfected": 4599783,
+        "infected": 212,
+        "Recovered": 0,
+        "Deaths": 0
     },
     {
-        "days": "6",
-        "uninfected": "4599731",
-        "infected": "264",
-        "Recovered": "0",
-        "Deaths": "0"
+        "days": 6,
+        "uninfected": 4599731,
+        "infected": 264,
+        "Recovered": 0,
+        "Deaths": 0
     },
     {
-        "days": "8",
-        "uninfected": "4599643",
-        "infected": "352",
-        "Recovered": "0",
-        "Deaths": "0"
+        "days": 8,
+        "uninfected": 4599643,
+        "infected": 352,
+        "Recovered": 0,
+        "Deaths": 0
     },
     {
-        "days": "10",
-        "uninfected": "4599535",
-        "infected": "460",
-        "Recovered": "0",
-        "Deaths": "0"
+        "days": 10,
+        "uninfected": 4599535,
+        "infected": 460,
+        "Recovered": 0,
+        "Deaths": 0
     },
     {
-        "days": "12",
-        "uninfected": "4599370",
-        "infected": "625",
-        "Recovered": "0",
-        "Deaths": "0"
+        "days": 12,
+        "uninfected": 4599370,
+        "infected": 625,
+        "Recovered": 0,
+        "Deaths": 0
     },
     {
-        "days": "14",
-        "uninfected": "4599161",
-        "infected": "833",
-        "Recovered": "0",
-        "Deaths": "1"
+        "days": 14,
+        "uninfected": 4599161,
+        "infected": 833,
+        "Recovered": 0,
+        "Deaths": 1
     },
     {
-        "days": "16",
-        "uninfected": "4598907",
-        "infected": "1083",
-        "Recovered": "4",
-        "Deaths": "1"
+        "days": 16,
+        "uninfected": 4598907,
+        "infected": 1083,
+        "Recovered": 4,
+        "Deaths": 1
     },
     {
-        "days": "18",
-        "uninfected": "4598536",
-        "infected": "1438",
-        "Recovered": "20",
-        "Deaths": "1"
+        "days": 18,
+        "uninfected": 4598536,
+        "infected": 1438,
+        "Recovered": 20,
+        "Deaths": 1
     },
     {
-        "days": "20",
-        "uninfected": "4598056",
-        "infected": "1876",
-        "Recovered": "62",
-        "Deaths": "1"
+        "days": 20,
+        "uninfected": 4598056,
+        "infected": 1876,
+        "Recovered": 62,
+        "Deaths": 1
     },
     {
-        "days": "22",
-        "uninfected": "4597447",
-        "infected": "2435",
-        "Recovered": "112",
-        "Deaths": "1"
+        "days": 22,
+        "uninfected": 4597447,
+        "infected": 2435,
+        "Recovered": 112,
+        "Deaths": 1
     },
     {
-        "days": "24",
-        "uninfected": "4596661",
-        "infected": "3162",
-        "Recovered": "169",
-        "Deaths": "3"
+        "days": 24,
+        "uninfected": 4596661,
+        "infected": 3162,
+        "Recovered": 169,
+        "Deaths": 3
     },
     {
-        "days": "26",
-        "uninfected": "4595647",
-        "infected": "4122",
-        "Recovered": "223",
-        "Deaths": "3"
+        "days": 26,
+        "uninfected": 4595647,
+        "infected": 4122,
+        "Recovered": 223,
+        "Deaths": 3
     },
     {
-        "days": "28",
-        "uninfected": "4594283",
-        "infected": "5414",
-        "Recovered": "294",
-        "Deaths": "4"
+        "days": 28,
+        "uninfected": 4594283,
+        "infected": 5414,
+        "Recovered": 294,
+        "Deaths": 4
     },
     {
-        "days": "30",
-        "uninfected": "4592542",
-        "infected": "7056",
-        "Recovered": "391",
-        "Deaths": "6"
+        "days": 30,
+        "uninfected": 4592542,
+        "infected": 7056,
+        "Recovered": 391,
+        "Deaths": 6
     },
     {
-        "days": "32",
-        "uninfected": "4590211",
-        "infected": "9269",
-        "Recovered": "508",
-        "Deaths": "7"
+        "days": 32,
+        "uninfected": 4590211,
+        "infected": 9269,
+        "Recovered": 508,
+        "Deaths": 7
     },
     {
-        "days": "34",
-        "uninfected": "4587113",
-        "infected": "12188",
-        "Recovered": "684",
-        "Deaths": "10"
+        "days": 34,
+        "uninfected": 4587113,
+        "infected": 12188,
+        "Recovered": 684,
+        "Deaths": 10
     },
     {
-        "days": "36",
-        "uninfected": "4583081",
-        "infected": "16006",
-        "Recovered": "890",
-        "Deaths": "18"
+        "days": 36,
+        "uninfected": 4583081,
+        "infected": 16006,
+        "Recovered": 890,
+        "Deaths": 18
     },
     {
-        "days": "38",
-        "uninfected": "4577797",
-        "infected": "21006",
-        "Recovered": "1166",
-        "Deaths": "26"
+        "days": 38,
+        "uninfected": 4577797,
+        "infected": 21006,
+        "Recovered": 1166,
+        "Deaths": 26
     },
     {
-        "days": "40",
-        "uninfected": "4570969",
-        "infected": "27481",
-        "Recovered": "1511",
-        "Deaths": "34"
+        "days": 40,
+        "uninfected": 4570969,
+        "infected": 27481,
+        "Recovered": 1511,
+        "Deaths": 34
     },
     {
-        "days": "42",
-        "uninfected": "4562068",
-        "infected": "35898",
-        "Recovered": "1992",
-        "Deaths": "37"
+        "days": 42,
+        "uninfected": 4562068,
+        "infected": 35898,
+        "Recovered": 1992,
+        "Deaths": 37
     },
     {
-        "days": "44",
-        "uninfected": "4550173",
-        "infected": "47154",
-        "Recovered": "2622",
-        "Deaths": "46"
+        "days": 44,
+        "uninfected": 4550173,
+        "infected": 47154,
+        "Recovered": 2622,
+        "Deaths": 46
     },
     {
-        "days": "46",
-        "uninfected": "4534865",
-        "infected": "61627",
-        "Recovered": "3441",
-        "Deaths": "62"
+        "days": 46,
+        "uninfected": 4534865,
+        "infected": 61627,
+        "Recovered": 3441,
+        "Deaths": 62
     },
     {
-        "days": "48",
-        "uninfected": "4514779",
-        "infected": "80616",
-        "Recovered": "4524",
-        "Deaths": "76"
+        "days": 48,
+        "uninfected": 4514779,
+        "infected": 80616,
+        "Recovered": 4524,
+        "Deaths": 76
     },
     {
-        "days": "50",
-        "uninfected": "4488884",
-        "infected": "104985",
-        "Recovered": "6025",
-        "Deaths": "101"
+        "days": 50,
+        "uninfected": 4488884,
+        "infected": 104985,
+        "Recovered": 6025,
+        "Deaths": 101
     },
     {
-        "days": "52",
-        "uninfected": "4455603",
-        "infected": "136331",
-        "Recovered": "7926",
-        "Deaths": "135"
+        "days": 52,
+        "uninfected": 4455603,
+        "infected": 136331,
+        "Recovered": 7926,
+        "Deaths": 135
     },
     {
-        "days": "54",
-        "uninfected": "4411950",
-        "infected": "177432",
-        "Recovered": "10433",
-        "Deaths": "180"
+        "days": 54,
+        "uninfected": 4411950,
+        "infected": 177432,
+        "Recovered": 10433,
+        "Deaths": 180
     },
     {
-        "days": "56",
-        "uninfected": "4356101",
-        "infected": "230015",
-        "Recovered": "13639",
-        "Deaths": "240"
+        "days": 56,
+        "uninfected": 4356101,
+        "infected": 230015,
+        "Recovered": 13639,
+        "Deaths": 240
     },
     {
-        "days": "58",
-        "uninfected": "4284640",
-        "infected": "297196",
-        "Recovered": "17843",
-        "Deaths": "316"
+        "days": 58,
+        "uninfected": 4284640,
+        "infected": 297196,
+        "Recovered": 17843,
+        "Deaths": 316
     },
     {
-        "days": "60",
-        "uninfected": "4194643",
-        "infected": "381606",
-        "Recovered": "23322",
-        "Deaths": "424"
+        "days": 60,
+        "uninfected": 4194643,
+        "infected": 381606,
+        "Recovered": 23322,
+        "Deaths": 424
     },
     {
-        "days": "62",
-        "uninfected": "4081393",
-        "infected": "487511",
-        "Recovered": "30523",
-        "Deaths": "568"
+        "days": 62,
+        "uninfected": 4081393,
+        "infected": 487511,
+        "Recovered": 30523,
+        "Deaths": 568
     },
     {
-        "days": "64",
-        "uninfected": "3941866",
-        "infected": "617360",
-        "Recovered": "40026",
-        "Deaths": "743"
+        "days": 64,
+        "uninfected": 3941866,
+        "infected": 617360,
+        "Recovered": 40026,
+        "Deaths": 743
     },
     {
-        "days": "66",
-        "uninfected": "3772624",
-        "infected": "773936",
-        "Recovered": "52478",
-        "Deaths": "957"
+        "days": 66,
+        "uninfected": 3772624,
+        "infected": 773936,
+        "Recovered": 52478,
+        "Deaths": 957
     },
     {
-        "days": "68",
-        "uninfected": "3571206",
-        "infected": "958771",
-        "Recovered": "68719",
-        "Deaths": "1299"
+        "days": 68,
+        "uninfected": 3571206,
+        "infected": 958771,
+        "Recovered": 68719,
+        "Deaths": 1299
     },
     {
-        "days": "70",
-        "uninfected": "3337573",
-        "infected": "1171239",
-        "Recovered": "89524",
-        "Deaths": "1659"
+        "days": 70,
+        "uninfected": 3337573,
+        "infected": 1171239,
+        "Recovered": 89524,
+        "Deaths": 1659
     },
     {
-        "days": "72",
-        "uninfected": "3073557",
-        "infected": "1407779",
-        "Recovered": "116541",
-        "Deaths": "2118"
+        "days": 72,
+        "uninfected": 3073557,
+        "infected": 1407779,
+        "Recovered": 116541,
+        "Deaths": 2118
     },
     {
-        "days": "74",
-        "uninfected": "2784926",
-        "infected": "1660910",
-        "Recovered": "151485",
-        "Deaths": "2674"
+        "days": 74,
+        "uninfected": 2784926,
+        "infected": 1660910,
+        "Recovered": 151485,
+        "Deaths": 2674
     },
     {
-        "days": "76",
-        "uninfected": "2480934",
-        "infected": "1919221",
-        "Recovered": "196439",
-        "Deaths": "3401"
+        "days": 76,
+        "uninfected": 2480934,
+        "infected": 1919221,
+        "Recovered": 196439,
+        "Deaths": 3401
     },
     {
-        "days": "78",
-        "uninfected": "2171552",
-        "infected": "2169713",
-        "Recovered": "254486",
-        "Deaths": "4244"
+        "days": 78,
+        "uninfected": 2171552,
+        "infected": 2169713,
+        "Recovered": 254486,
+        "Deaths": 4244
     },
     {
-        "days": "80",
-        "uninfected": "1870316",
-        "infected": "2396301",
-        "Recovered": "328122",
-        "Deaths": "5256"
+        "days": 80,
+        "uninfected": 1870316,
+        "infected": 2396301,
+        "Recovered": 328122,
+        "Deaths": 5256
     },
     {
-        "days": "82",
-        "uninfected": "1587815",
-        "infected": "2585277",
-        "Recovered": "420473",
-        "Deaths": "6430"
+        "days": 82,
+        "uninfected": 1587815,
+        "infected": 2585277,
+        "Recovered": 420473,
+        "Deaths": 6430
     },
     {
-        "days": "84",
-        "uninfected": "1332550",
-        "infected": "2723874",
-        "Recovered": "535742",
-        "Deaths": "7829"
+        "days": 84,
+        "uninfected": 1332550,
+        "infected": 2723874,
+        "Recovered": 535742,
+        "Deaths": 7829
     },
     {
-        "days": "86",
-        "uninfected": "1108873",
-        "infected": "2804884",
-        "Recovered": "676890",
-        "Deaths": "9348"
+        "days": 86,
+        "uninfected": 1108873,
+        "infected": 2804884,
+        "Recovered": 676890,
+        "Deaths": 9348
     },
     {
-        "days": "88",
-        "uninfected": "919015",
-        "infected": "2823278",
-        "Recovered": "846794",
-        "Deaths": "10908"
+        "days": 88,
+        "uninfected": 919015,
+        "infected": 2823278,
+        "Recovered": 846794,
+        "Deaths": 10908
     },
     {
-        "days": "90",
-        "uninfected": "761261",
-        "infected": "2779055",
-        "Recovered": "1047034",
-        "Deaths": "12645"
+        "days": 90,
+        "uninfected": 761261,
+        "infected": 2779055,
+        "Recovered": 1047034,
+        "Deaths": 12645
     },
     {
-        "days": "92",
-        "uninfected": "633951",
-        "infected": "2674031",
-        "Recovered": "1277549",
-        "Deaths": "14464"
+        "days": 92,
+        "uninfected": 633951,
+        "infected": 2674031,
+        "Recovered": 1277549,
+        "Deaths": 14464
     },
     {
-        "days": "94",
-        "uninfected": "532713",
-        "infected": "2515706",
-        "Recovered": "1535379",
-        "Deaths": "16197"
+        "days": 94,
+        "uninfected": 532713,
+        "infected": 2515706,
+        "Recovered": 1535379,
+        "Deaths": 16197
     },
     {
-        "days": "96",
-        "uninfected": "452178",
-        "infected": "2314409",
-        "Recovered": "1815483",
-        "Deaths": "17925"
+        "days": 96,
+        "uninfected": 452178,
+        "infected": 2314409,
+        "Recovered": 1815483,
+        "Deaths": 17925
     },
     {
-        "days": "98",
-        "uninfected": "389633",
-        "infected": "2081526",
-        "Recovered": "2109286",
-        "Deaths": "19550"
+        "days": 98,
+        "uninfected": 389633,
+        "infected": 2081526,
+        "Recovered": 2109286,
+        "Deaths": 19550
     },
     {
-        "days": "100",
-        "uninfected": "341205",
-        "infected": "1830644",
-        "Recovered": "2407158",
-        "Deaths": "20988"
+        "days": 100,
+        "uninfected": 341205,
+        "infected": 1830644,
+        "Recovered": 2407158,
+        "Deaths": 20988
     },
     {
-        "days": "102",
-        "uninfected": "303719",
-        "infected": "1576047",
-        "Recovered": "2697945",
-        "Deaths": "22284"
+        "days": 102,
+        "uninfected": 303719,
+        "infected": 1576047,
+        "Recovered": 2697945,
+        "Deaths": 22284
     },
     {
-        "days": "104",
-        "uninfected": "275144",
-        "infected": "1329149",
-        "Recovered": "2972311",
-        "Deaths": "23391"
+        "days": 104,
+        "uninfected": 275144,
+        "infected": 1329149,
+        "Recovered": 2972311,
+        "Deaths": 23391
     },
     {
-        "days": "106",
-        "uninfected": "253235",
-        "infected": "1100086",
-        "Recovered": "3222294",
-        "Deaths": "24380"
+        "days": 106,
+        "uninfected": 253235,
+        "infected": 1100086,
+        "Recovered": 3222294,
+        "Deaths": 24380
     },
     {
-        "days": "108",
-        "uninfected": "236318",
-        "infected": "895628",
-        "Recovered": "3442889",
-        "Deaths": "25160"
+        "days": 108,
+        "uninfected": 236318,
+        "infected": 895628,
+        "Recovered": 3442889,
+        "Deaths": 25160
     },
     {
-        "days": "110",
-        "uninfected": "223528",
-        "infected": "718052",
-        "Recovered": "3632611",
-        "Deaths": "25804"
+        "days": 110,
+        "uninfected": 223528,
+        "infected": 718052,
+        "Recovered": 3632611,
+        "Deaths": 25804
     },
     {
-        "days": "112",
-        "uninfected": "213722",
-        "infected": "569153",
-        "Recovered": "3790760",
-        "Deaths": "26360"
+        "days": 112,
+        "uninfected": 213722,
+        "infected": 569153,
+        "Recovered": 3790760,
+        "Deaths": 26360
     },
     {
-        "days": "114",
-        "uninfected": "206448",
-        "infected": "446499",
-        "Recovered": "3920300",
-        "Deaths": "26748"
+        "days": 114,
+        "uninfected": 206448,
+        "infected": 446499,
+        "Recovered": 3920300,
+        "Deaths": 26748
     },
     {
-        "days": "116",
-        "uninfected": "200956",
-        "infected": "347924",
-        "Recovered": "4024036",
-        "Deaths": "27079"
+        "days": 116,
+        "uninfected": 200956,
+        "infected": 347924,
+        "Recovered": 4024036,
+        "Deaths": 27079
     },
     {
-        "days": "118",
-        "uninfected": "196808",
-        "infected": "268866",
-        "Recovered": "4106983",
-        "Deaths": "27338"
+        "days": 118,
+        "uninfected": 196808,
+        "infected": 268866,
+        "Recovered": 4106983,
+        "Deaths": 27338
     },
     {
-        "days": "120",
-        "uninfected": "193635",
-        "infected": "206647",
-        "Recovered": "4172177",
-        "Deaths": "27536"
+        "days": 120,
+        "uninfected": 193635,
+        "infected": 206647,
+        "Recovered": 4172177,
+        "Deaths": 27536
     },
     {
-        "days": "122",
-        "uninfected": "191282",
-        "infected": "158013",
-        "Recovered": "4223033",
-        "Deaths": "27667"
+        "days": 122,
+        "uninfected": 191282,
+        "infected": 158013,
+        "Recovered": 4223033,
+        "Deaths": 27667
     },
     {
-        "days": "124",
-        "uninfected": "189533",
-        "infected": "120719",
-        "Recovered": "4261956",
-        "Deaths": "27787"
+        "days": 124,
+        "uninfected": 189533,
+        "infected": 120719,
+        "Recovered": 4261956,
+        "Deaths": 27787
     },
     {
-        "days": "126",
-        "uninfected": "188150",
-        "infected": "92120",
-        "Recovered": "4291852",
-        "Deaths": "27873"
+        "days": 126,
+        "uninfected": 188150,
+        "infected": 92120,
+        "Recovered": 4291852,
+        "Deaths": 27873
     },
     {
-        "days": "128",
-        "uninfected": "187122",
-        "infected": "69913",
-        "Recovered": "4315016",
-        "Deaths": "27944"
+        "days": 128,
+        "uninfected": 187122,
+        "infected": 69913,
+        "Recovered": 4315016,
+        "Deaths": 27944
     },
     {
-        "days": "130",
-        "uninfected": "186285",
-        "infected": "53013",
-        "Recovered": "4332701",
-        "Deaths": "27996"
+        "days": 130,
+        "uninfected": 186285,
+        "infected": 53013,
+        "Recovered": 4332701,
+        "Deaths": 27996
     },
     {
-        "days": "132",
-        "uninfected": "185685",
-        "infected": "40090",
-        "Recovered": "4346188",
-        "Deaths": "28032"
+        "days": 132,
+        "uninfected": 185685,
+        "infected": 40090,
+        "Recovered": 4346188,
+        "Deaths": 28032
     },
     {
-        "days": "134",
-        "uninfected": "185230",
-        "infected": "30361",
-        "Recovered": "4356340",
-        "Deaths": "28064"
+        "days": 134,
+        "uninfected": 185230,
+        "infected": 30361,
+        "Recovered": 4356340,
+        "Deaths": 28064
     },
     {
-        "days": "136",
-        "uninfected": "184879",
-        "infected": "22911",
-        "Recovered": "4364116",
-        "Deaths": "28089"
+        "days": 136,
+        "uninfected": 184879,
+        "infected": 22911,
+        "Recovered": 4364116,
+        "Deaths": 28089
     },
     {
-        "days": "138",
-        "uninfected": "184616",
-        "infected": "17377",
-        "Recovered": "4369897",
-        "Deaths": "28105"
+        "days": 138,
+        "uninfected": 184616,
+        "infected": 17377,
+        "Recovered": 4369897,
+        "Deaths": 28105
     },
     {
-        "days": "140",
-        "uninfected": "184391",
-        "infected": "13129",
-        "Recovered": "4374355",
-        "Deaths": "28120"
+        "days": 140,
+        "uninfected": 184391,
+        "infected": 13129,
+        "Recovered": 4374355,
+        "Deaths": 28120
     },
     {
-        "days": "142",
-        "uninfected": "184248",
-        "infected": "9913",
-        "Recovered": "4377707",
-        "Deaths": "28127"
+        "days": 142,
+        "uninfected": 184248,
+        "infected": 9913,
+        "Recovered": 4377707,
+        "Deaths": 28127
     },
     {
-        "days": "144",
-        "uninfected": "184147",
-        "infected": "7522",
-        "Recovered": "4380190",
-        "Deaths": "28136"
+        "days": 144,
+        "uninfected": 184147,
+        "infected": 7522,
+        "Recovered": 4380190,
+        "Deaths": 28136
     },
     {
-        "days": "146",
-        "uninfected": "184062",
-        "infected": "5749",
-        "Recovered": "4382042",
-        "Deaths": "28142"
+        "days": 146,
+        "uninfected": 184062,
+        "infected": 5749,
+        "Recovered": 4382042,
+        "Deaths": 28142
     },
     {
-        "days": "148",
-        "uninfected": "183998",
-        "infected": "4325",
-        "Recovered": "4383526",
-        "Deaths": "28146"
+        "days": 148,
+        "uninfected": 183998,
+        "infected": 4325,
+        "Recovered": 4383526,
+        "Deaths": 28146
     },
     {
-        "days": "150",
-        "uninfected": "183961",
-        "infected": "3317",
-        "Recovered": "4384566",
-        "Deaths": "28151"
+        "days": 150,
+        "uninfected": 183961,
+        "infected": 3317,
+        "Recovered": 4384566,
+        "Deaths": 28151
     },
     {
-        "days": "152",
-        "uninfected": "183925",
-        "infected": "2499",
-        "Recovered": "4385416",
-        "Deaths": "28155"
+        "days": 152,
+        "uninfected": 183925,
+        "infected": 2499,
+        "Recovered": 4385416,
+        "Deaths": 28155
     },
     {
-        "days": "154",
-        "uninfected": "183898",
-        "infected": "1852",
-        "Recovered": "4386088",
-        "Deaths": "28157"
+        "days": 154,
+        "uninfected": 183898,
+        "infected": 1852,
+        "Recovered": 4386088,
+        "Deaths": 28157
     },
     {
-        "days": "156",
-        "uninfected": "183885",
-        "infected": "1411",
-        "Recovered": "4386539",
-        "Deaths": "28160"
+        "days": 156,
+        "uninfected": 183885,
+        "infected": 1411,
+        "Recovered": 4386539,
+        "Deaths": 28160
     },
     {
-        "days": "158",
-        "uninfected": "183874",
-        "infected": "1063",
-        "Recovered": "4386895",
-        "Deaths": "28163"
+        "days": 158,
+        "uninfected": 183874,
+        "infected": 1063,
+        "Recovered": 4386895,
+        "Deaths": 28163
     },
     {
-        "days": "160",
-        "uninfected": "183866",
-        "infected": "787",
-        "Recovered": "4387178",
-        "Deaths": "28164"
+        "days": 160,
+        "uninfected": 183866,
+        "infected": 787,
+        "Recovered": 4387178,
+        "Deaths": 28164
     },
     {
-        "days": "162",
-        "uninfected": "183858",
-        "infected": "585",
-        "Recovered": "4387387",
-        "Deaths": "28165"
+        "days": 162,
+        "uninfected": 183858,
+        "infected": 585,
+        "Recovered": 4387387,
+        "Deaths": 28165
     },
     {
-        "days": "164",
-        "uninfected": "183851",
-        "infected": "437",
-        "Recovered": "4387542",
-        "Deaths": "28165"
+        "days": 164,
+        "uninfected": 183851,
+        "infected": 437,
+        "Recovered": 4387542,
+        "Deaths": 28165
     },
     {
-        "days": "166",
-        "uninfected": "183850",
-        "infected": "314",
-        "Recovered": "4387666",
-        "Deaths": "28165"
+        "days": 166,
+        "uninfected": 183850,
+        "infected": 314,
+        "Recovered": 4387666,
+        "Deaths": 28165
     },
     {
-        "days": "168",
-        "uninfected": "183848",
-        "infected": "227",
-        "Recovered": "4387755",
-        "Deaths": "28165"
+        "days": 168,
+        "uninfected": 183848,
+        "infected": 227,
+        "Recovered": 4387755,
+        "Deaths": 28165
     },
     {
-        "days": "170",
-        "uninfected": "183846",
-        "infected": "174",
-        "Recovered": "4387810",
-        "Deaths": "28165"
+        "days": 170,
+        "uninfected": 183846,
+        "infected": 174,
+        "Recovered": 4387810,
+        "Deaths": 28165
     },
     {
-        "days": "172",
-        "uninfected": "183843",
-        "infected": "118",
-        "Recovered": "4387869",
-        "Deaths": "28165"
+        "days": 172,
+        "uninfected": 183843,
+        "infected": 118,
+        "Recovered": 4387869,
+        "Deaths": 28165
     },
     {
-        "days": "174",
-        "uninfected": "183842",
-        "infected": "90",
-        "Recovered": "4387898",
-        "Deaths": "28165"
+        "days": 174,
+        "uninfected": 183842,
+        "infected": 90,
+        "Recovered": 4387898,
+        "Deaths": 28165
     },
     {
-        "days": "176",
-        "uninfected": "183841",
-        "infected": "67",
-        "Recovered": "4387922",
-        "Deaths": "28165"
+        "days": 176,
+        "uninfected": 183841,
+        "infected": 67,
+        "Recovered": 4387922,
+        "Deaths": 28165
     },
     {
-        "days": "178",
-        "uninfected": "183839",
-        "infected": "53",
-        "Recovered": "4387938",
-        "Deaths": "28165"
+        "days": 178,
+        "uninfected": 183839,
+        "infected": 53,
+        "Recovered": 4387938,
+        "Deaths": 28165
     },
     {
-        "days": "180",
-        "uninfected": "183838",
-        "infected": "41",
-        "Recovered": "4387951",
-        "Deaths": "28165"
+        "days": 180,
+        "uninfected": 183838,
+        "infected": 41,
+        "Recovered": 4387951,
+        "Deaths": 28165
     },
     {
-        "days": "182",
-        "uninfected": "183837",
-        "infected": "35",
-        "Recovered": "4387958",
-        "Deaths": "28165"
+        "days": 182,
+        "uninfected": 183837,
+        "infected": 35,
+        "Recovered": 4387958,
+        "Deaths": 28165
     },
     {
-        "days": "184",
-        "uninfected": "183837",
-        "infected": "25",
-        "Recovered": "4387968",
-        "Deaths": "28165"
+        "days": 184,
+        "uninfected": 183837,
+        "infected": 25,
+        "Recovered": 4387968,
+        "Deaths": 28165
     },
     {
-        "days": "186",
-        "uninfected": "183837",
-        "infected": "18",
-        "Recovered": "4387975",
-        "Deaths": "28165"
+        "days": 186,
+        "uninfected": 183837,
+        "infected": 18,
+        "Recovered": 4387975,
+        "Deaths": 28165
     },
     {
-        "days": "188",
-        "uninfected": "183837",
-        "infected": "14",
-        "Recovered": "4387979",
-        "Deaths": "28165"
+        "days": 188,
+        "uninfected": 183837,
+        "infected": 14,
+        "Recovered": 4387979,
+        "Deaths": 28165
     },
     {
-        "days": "190",
-        "uninfected": "183837",
-        "infected": "12",
-        "Recovered": "4387981",
-        "Deaths": "28165"
+        "days": 190,
+        "uninfected": 183837,
+        "infected": 12,
+        "Recovered": 4387981,
+        "Deaths": 28165
     },
     {
-        "days": "192",
-        "uninfected": "183837",
-        "infected": "10",
-        "Recovered": "4387983",
-        "Deaths": "28165"
+        "days": 192,
+        "uninfected": 183837,
+        "infected": 10,
+        "Recovered": 4387983,
+        "Deaths": 28165
     },
     {
-        "days": "194",
-        "uninfected": "183837",
-        "infected": "8",
-        "Recovered": "4387985",
-        "Deaths": "28165"
+        "days": 194,
+        "uninfected": 183837,
+        "infected": 8,
+        "Recovered": 4387985,
+        "Deaths": 28165
     },
     {
-        "days": "196",
-        "uninfected": "183837",
-        "infected": "7",
-        "Recovered": "4387986",
-        "Deaths": "28165"
+        "days": 196,
+        "uninfected": 183837,
+        "infected": 7,
+        "Recovered": 4387986,
+        "Deaths": 28165
     },
     {
-        "days": "198",
-        "uninfected": "183837",
-        "infected": "5",
-        "Recovered": "4387988",
-        "Deaths": "28165"
+        "days": 198,
+        "uninfected": 183837,
+        "infected": 5,
+        "Recovered": 4387988,
+        "Deaths": 28165
     },
     {
-        "days": "200",
-        "uninfected": "183837",
-        "infected": "2",
-        "Recovered": "4387991",
-        "Deaths": "28165"
+        "days": 200,
+        "uninfected": 183837,
+        "infected": 2,
+        "Recovered": 4387991,
+        "Deaths": 28165
     },
     {
-        "days": "202",
-        "uninfected": "183837",
-        "infected": "1",
-        "Recovered": "4387992",
-        "Deaths": "28165"
+        "days": 202,
+        "uninfected": 183837,
+        "infected": 1,
+        "Recovered": 4387992,
+        "Deaths": 28165
     },
     {
-        "days": "204",
-        "uninfected": "183837",
-        "infected": "1",
-        "Recovered": "4387992",
-        "Deaths": "28165"
+        "days": 204,
+        "uninfected": 183837,
+        "infected": 1,
+        "Recovered": 4387992,
+        "Deaths": 28165
     },
     {
-        "days": "206",
-        "uninfected": "183837",
-        "infected": "1",
-        "Recovered": "4387992",
-        "Deaths": "28165"
+        "days": 206,
+        "uninfected": 183837,
+        "infected": 1,
+        "Recovered": 4387992,
+        "Deaths": 28165
     },
     {
-        "days": "208",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 208,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "210",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 210,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "212",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 212,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "214",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 214,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "216",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 216,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "218",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 218,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "220",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 220,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "222",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 222,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "224",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 224,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "226",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 226,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "228",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 228,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "230",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 230,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "232",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 232,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "234",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 234,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "236",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 236,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "238",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 238,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "240",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 240,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "242",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 242,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "244",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 244,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "246",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 246,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "248",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 248,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "250",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 250,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "252",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 252,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "254",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 254,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "256",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 256,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "258",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 258,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "260",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 260,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "262",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 262,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "264",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 264,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "266",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 266,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "268",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 268,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "270",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 270,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "272",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 272,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "274",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 274,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "276",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 276,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "278",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 278,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "280",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 280,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "282",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 282,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "284",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 284,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "286",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 286,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "288",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 288,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "290",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 290,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "292",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 292,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "294",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 294,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "296",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 296,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "298",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 298,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "300",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 300,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "302",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 302,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "304",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 304,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "306",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 306,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "308",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 308,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "310",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 310,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "312",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 312,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "314",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 314,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "316",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 316,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "318",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 318,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "320",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 320,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "322",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 322,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "324",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 324,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "326",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 326,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "328",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 328,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "330",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 330,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "332",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 332,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "334",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 334,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "336",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 336,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "338",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 338,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "340",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 340,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "342",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 342,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "344",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 344,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "346",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 346,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "348",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 348,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "350",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 350,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "352",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 352,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "354",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 354,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "356",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 356,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "358",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 358,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "360",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 360,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "362",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 362,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "364",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 364,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "366",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 366,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "368",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 368,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "370",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 370,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "372",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 372,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "374",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 374,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "376",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 376,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "378",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 378,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "380",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 380,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "382",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 382,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "384",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 384,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "386",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 386,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "388",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 388,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "390",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 390,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "392",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 392,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "394",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 394,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "396",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 396,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     },
     {
-        "days": "398",
-        "uninfected": "183837",
-        "infected": "0",
-        "Recovered": "4387993",
-        "Deaths": "28165"
+        "days": 398,
+        "uninfected": 183837,
+        "infected": 0,
+        "Recovered": 4387993,
+        "Deaths": 28165
     }
 ]
