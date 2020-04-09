@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import datatxt from './data.json';
+import datatxt from '../data/data.json';
 import SimChart from '../components/SimChart';
 import Button from 'react-bootstrap/Button';
 
@@ -33,9 +33,7 @@ const Home = () => (
       
     </main>
     <style jsx>{`
-     .container-fluid{
-       
-    }
+     
      
 		`}</style>
     

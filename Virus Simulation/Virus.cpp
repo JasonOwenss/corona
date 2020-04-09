@@ -363,7 +363,7 @@ int main()
 {
     std::ofstream outfile;
     outfile.open("35 LD 3 day SI", std::ios::app);
-    outfile << "days" << "  " << "uninfected" << "infected" << "  " << "Recovered" << "  " << "Deaths" << std::endl;
+    outfile << "Days" << "  " << "Uninfected" << "  " << "Infected" << "  " << "Recovered" << "  " << "Deaths" << std::endl;
     outfile.close();
     
     std::vector<person> pop;
