@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import datatxt from '../data/data.json';
+import data from '../data/data.json';
 import SimChart from '../components/SimChart';
 import Button from 'react-bootstrap/Button';
 
@@ -17,15 +17,15 @@ const Home = () => (
 
     <main>
       <div className="container-fluid">
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-default ">
           <a className="navbar-brand">Navbar</a>
         </nav>
       </div>
       <div className="row">
         <div className="col">
         </div>
-        <div className="col-6">
-          <SimChart data={datatxt}/>
+        <div className="col-8">
+          <SimChart data={data}/>
         </div>
         <div className="col">
         </div>
@@ -33,7 +33,10 @@ const Home = () => (
       
     </main>
     <style jsx>{`
-     
+     .navbar-default {
+        background-color: #FFFFFF;
+        border-color: #FFFFFF;
+      } 
      
 		`}</style>
     
